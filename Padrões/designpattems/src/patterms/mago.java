@@ -4,7 +4,7 @@ public class mago implements Ataque {
 
     public void atacar() {
 
-        system.out.println("magia");
+        System.out.println("magia");
     }
 
 }
