@@ -3,15 +3,18 @@ package patterms;
 public class teste {
 
 
-    public static void main(String[] args) {
-        npc garen = new npc();
-        garen.setAtaque (new AtaqueEspada ());
-        garen.atacarAtaque();
+      public static void main(String[] args) {
+        npc Garen = new npc();
+        Garen.setAtaque (new Ataque() {
+            @Override
+            public void atacar() {
+                
+            }
+        });
+        Garen.atacarAtaque();
 
-        System.out.println ("o cavaleiro ataca com espada");
+        System.out.println("o cavaleiro ataca com espada");
 
-        garen.setAtaque (new AtaqueForteEspada());
-        garen.atacarAtaque();
+    }
 
-        System.out.println ("o cavaleiro apenas ataca de espada");
-        }
+}
