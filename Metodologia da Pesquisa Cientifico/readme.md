@@ -102,6 +102,7 @@ Buscando sempre melhorar os a soft skill de comunicação para compreender os de
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Meus Principais Conhecimentos
