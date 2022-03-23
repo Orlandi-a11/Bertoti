@@ -90,9 +90,9 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 Contrui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
 
 #### Hard Skills Efetivamente Desenvolvidas
--JAVA;
--postgree; 
--REACT;
+- JAVA;
+- Postgree; 
+- REACT;
 
 #### Soft Skills Efetivamente Desenvolvidas
 Proatividade e trabalho em equipe.
