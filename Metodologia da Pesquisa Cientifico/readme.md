@@ -41,7 +41,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
 - Trabalhar sob pressão: Na qual em alguns momentos presivamos nos esforçar para realizar a entrega no prazo desejado e realizar diversas atividades em curto periodo de tempo.
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
-- Adaptação: uoutra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
+- Adaptação: Outra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
