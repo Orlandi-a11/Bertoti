@@ -38,8 +38,10 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
  #### Soft Skills  Desenvolvidas:
 
--Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
--Trabalhar sob pressão: Na qual em alguns momentos presivamos nos esforçar para realizar a entrega no prazo desejado e realizar diversas atividades em curto periodo de tempo.
+- Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
+- Trabalhar sob pressão: Na qual em alguns momentos presivamos nos esforçar para realizar a entrega no prazo desejado e realizar diversas atividades em curto periodo de tempo.
+- Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
+- Adaptação: uoutra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -67,8 +69,9 @@ Contrui na construção do banco de dados do projeto,Seja no modelo conceitual d
 
 
 #### Soft Skills Efetivamente Desenvolvidas
-Autoconfiança e resiliencia.
-neste projeto desenvolvi bastante a autoconfiança para as entregas no quesito de saber o que foi entregue e aquilo que esta em meu alcance  e estimado para tal entrega. e com isso a resiliencia devido as dificuldades que tive durante o projeto e ter a resiliencia para continuar e se esforça e sempre tentar novamente uma vez após a outra.
+
+- Autoconfiança: neste projeto desenvolvi bastante a autoconfiança para as entregas no quesito de saber o que foi entregue e aquilo que esta em meu alcance  e estimado para tal.
+- Resiliencia: e com isso a resiliencia devido as dificuldades que tive durante o projeto e ter a resiliencia para continuar e se esforça e sempre tentar novamente uma vez após a outra para tentar entregar o desejado em cada uma das sprints.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
