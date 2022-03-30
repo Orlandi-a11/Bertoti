@@ -102,11 +102,30 @@ Contrui na construção do banco de dados do projeto, contrução da tela de con
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 -
 - Trabalho em Equipe:
-Buscando sempre melhorar os a soft skill de comunicação para compreender os demais atividades em grupo.
+Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 
 #### Em 2022-1
+Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das evndas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
+
+- [link para o GIT]().
+
+#### Tecnologias Utilizadas
+- Postgree;
+- JAVA web;
+- FIGMA;
+- Discord;
 
 
+## Contribuições Pessoais
+Contrui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
+
+#### Hard Skills Efetivamente Desenvolvidas
+
+- Postgree: Na realização do modelo do banco de dados que sera utilizado pela equipe;
+- BR modelo: contrução do modelo logico e conceitual.
+
+
+#### Soft Skills Efetivamente Desenvolvidas
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
