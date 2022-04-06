@@ -114,20 +114,26 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - JAVA web;
 - FIGMA;
 - Discord;
-
+- Visual Studio code;
+- gitlab;
+- git;
 
 ## Contribuições Pessoais
-Contrui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
+- Contribui para a realização de videos explicativos para o P.O ter uma melhor compreensão do passo a passo da realização do projeto;
+- Contribui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
+- 
 
 #### Hard Skills Efetivamente Desenvolvidas
 
 - Postgree: Na realização do modelo do banco de dados que sera utilizado pela equipe;
 - BR modelo: contrução do modelo logico e conceitual.
+- Gitlab: Realização de commits de informações do projeto e auxilio no readme.
 
 
 #### Soft Skills Efetivamente Desenvolvidas
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
+ -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Meus Principais Conhecimentos
