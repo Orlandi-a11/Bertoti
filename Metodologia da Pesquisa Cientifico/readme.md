@@ -100,9 +100,10 @@ Contrui na construção do banco de dados do projeto, contrução da tela de con
 
 #### Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
--
-- Trabalho em Equipe:
-Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
+- Trabalho em Equipe:Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Em 2022-1
 Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das evndas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
@@ -121,7 +122,6 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 ## Contribuições Pessoais
 - Contribui para a realização de videos explicativos para o P.O ter uma melhor compreensão do passo a passo da realização do projeto;
 - Contribui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
-- 
 
 #### Hard Skills Efetivamente Desenvolvidas
 
@@ -133,6 +133,8 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 #### Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos. 
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -141,10 +143,12 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - Github;
 - Gitlab;
 - Postgree;
+- Figma;
+- Java SE;
 
 ## Contatos
 * [GIT](https://github.com/Orlandi-a11)
-* [LinkedIn](https://www.linkedin.com/in/orlando-pereira-a09ba9214/)
+* [LinkedIn](https://www.linkedin.com/in/orlando-pereira-a09ba9214/) 
 
 
 
