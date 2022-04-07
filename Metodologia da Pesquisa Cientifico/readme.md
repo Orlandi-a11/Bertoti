@@ -61,9 +61,9 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
 
 #### Hard Skills Efetivamente Desenvolvidas
-- SQL.
-- POSTGREE.
-- Gitlab.
+
+- POSTGREE: Para inserção de dados de municipios do sistema car no banco de dados;
+- Gitlab: realização de commits do projetos,criação do readme e inserção de videos explicativos do projeto;
 
 
 #### Soft Skills Efetivamente Desenvolvidas
