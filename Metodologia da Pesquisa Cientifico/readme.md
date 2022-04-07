@@ -25,11 +25,8 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 # Contribuições Pessoais
 
-## Auxiliei na montagem:
-- Design das telas no figma;
-- Montagem das telas no próprio App Inventor;
-- Programação da tela de cadastro;
-
+- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor 
+na qual tambem contribui em prol do grupo e realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto.
 
 #### Hard Skills Desenvolvidas:
 - App Inventor;
@@ -61,7 +58,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - POSTGIS;
 
 ## Contribuições Pessoais
-Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
+- Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
 
 #### Hard Skills Efetivamente Desenvolvidas
 - SQL.
@@ -91,7 +88,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - VSCODE;
 
 ## Contribuições Pessoais
-Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
+- Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
 
 #### Hard Skills Efetivamente Desenvolvidas
 - JAVA;
@@ -106,7 +103,7 @@ Contruibui na construção do banco de dados do projeto, contrução da tela de 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Em 2022-1
-Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das evndas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
+Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das vendas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
 
 - [link para o GIT]().
 
