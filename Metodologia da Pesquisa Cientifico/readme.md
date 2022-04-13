@@ -1,21 +1,22 @@
 orlando Pereira de Seixas Neto
+:mortar_board:
 - RA: 1460282023038.
 
-# Portifólio de API
+# :abacus: Portifólio de API 
 
 Olá, meu nome é Orlando, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's, consegui ampliar meus conhecimentos nas diversas tecnologias e tambem Hard Skills quanto Soft Skills e foi uma experiencia muito promissora, com uma experiencia mais real do que iremos realizar o mercado de trabalho. Onde ao realizar tais atividades,  é de suma importancia a  persistencia e o foco na busca mais um conhecimento novo, para completar as atividades designadas.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Meus Projetos
+# :office: Meus Projetos
 
-#### Em 2020-2
+#### :open_file_folder: Em 2020-2
 Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parceiro Acadêmico Professor Fabiano Sabha, que tinha como objetivo é a integração entre motorista e passageiros para melhora do transporte para ambos,na qual o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também, através de mensagens padronizadas, informar de alguns imprevistos e entre outros fatores.
 
-- [link para o GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
+- :link: [GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
 
 
-#### Tecnologias Utilizadas
+#### :desktop_computer: Tecnologias Utilizadas
 
 - Github
 - FIGMA
@@ -23,18 +24,18 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Firebase
 - Metodologia Scrum
 
-# Contribuições Pessoais
+# Contribuições Pessoais:
 
 - Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor 
 na qual tambem contribui em prol do grupo e realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto.
 
-#### Hard Skills Desenvolvidas:
+#### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - App Inventor;
 - Figma;
 - Metodologia Scrum;
 
 
- #### Soft Skills  Desenvolvidas:
+ #### :hammer_and_wrench: Soft Skills  Desenvolvidas:
 
 - Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
 - Trabalhar sob pressão: Na qual em alguns momentos presivamos nos esforçar para realizar a entrega no prazo desejado e realizar diversas atividades em curto periodo de tempo.
@@ -43,13 +44,13 @@ na qual tambem contribui em prol do grupo e realizei a programação da tela de 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Em 2021-1
+#### :open_file_folder: Em 2021-1
 Trabalhei no projeto da API com o Parceiro Acadêmico VISIONA.<br> que nos deu o objetivo tem  desenvolver um MVP que forneça ao cliente uma base de dados completa, confiável e organizada com as informações oriundas do sistema CAR. Para isso será utilizado ferramentas do ciclo de aprendizado e metodologia a SCRUM (entregas e desenvolvimento ágil), nas sprints demonstraremos e entregaremos de forma gradativa desde a aquisição, leitura e depuração das informações até a construção e finalização do banco de dados.
 E para completar uma solução para o problema de não ter uma base de dados comunizada, unificada e organizada dos registros que são disponibilizados pelos proprietários das áreas rurais, através do cadastro ambiental rural (CAR). A empresa fornece a órgãos públicos e privados um registro geoprocessado por imagens de satélite orbitais, que tem por finalidade comparar os dados de dimensões territoriais, áreas de preservação, entes hídricos, topografia e outros dados referentes a propriedade, estes dados são comparados com a imagens de satélite em tempo real por isso é necessário que estejam atualizados e organizados.
-- [link para o GIT](https://gitlab.com/orl22/projeto_pi3).
+-  :link: [GIT](https://gitlab.com/orl22/projeto_pi3).
 
 
-#### Tecnologias Utilizadas
+#### :desktop_computer: Tecnologias Utilizadas
 - Postgree;
 - JAVA;
 - ECLIPSE;
@@ -60,7 +61,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 ## Contribuições Pessoais
 - Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
 
-#### Hard Skills Efetivamente Desenvolvidas
+#### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
 - POSTGREE: Para inserção de dados de municipios do sistema car no banco de dados;
 - Gitlab: realização de commits do projetos,criação do readme e inserção de videos explicativos do projeto;
@@ -73,11 +74,11 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Em 2021-2
+#### :open_file_folder: Em 2021-2
 Trabalhei no projeto da API com o Parceiro Acadêmico IACIT.<br> um importante polo da indústria aeroespacial do Brasil.
 Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.Na qual Projetamos uma aplicação Web que contemple a apresentação de um sistema de Planning, com uma criação simples e direta de atividades e de um sistema de votação, além da parte de retrospectiva, onde o usuário poderá se cadastrar como Scrum Master ou entrar como desenvolvedor para a realização das votações.
 
-- [link para o GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
+- :link: [GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
 
 #### Tecnologias Utilizadas
 - Postgree;
@@ -90,7 +91,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 ## Contribuições Pessoais
 - Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
 
-#### Hard Skills Efetivamente Desenvolvidas
+#### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 - JAVA;
 - Postgree; 
 - REACT;
@@ -102,10 +103,10 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### Em 2022-1
+#### :open_file_folder: Em 2022-1
 Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das vendas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
 
-- [link para o GIT]().
+- :link: [GIT](https://gitlab.com/vueforce1/lefoot).
 
 #### Tecnologias Utilizadas
 - Postgree;
@@ -120,7 +121,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - Contribui para a realização de videos explicativos para o P.O ter uma melhor compreensão do passo a passo da realização do projeto;
 - Contribui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
 
-#### Hard Skills Efetivamente Desenvolvidas
+#### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
 - Postgree: Na realização do modelo do banco de dados que sera utilizado pela equipe;
 - BR modelo: contrução do modelo logico e conceitual.
