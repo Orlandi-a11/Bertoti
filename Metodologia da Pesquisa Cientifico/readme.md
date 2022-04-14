@@ -80,7 +80,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 - :link: [GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
 
-#### Tecnologias Utilizadas
+#### :desktop_computer: Tecnologias Utilizadas
 - Postgree;
 - JAVA;
 - INTELIJ;
@@ -96,7 +96,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - Postgree; 
 - REACT;
 
-#### Soft Skills Efetivamente Desenvolvidas
+####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe:Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 
@@ -128,7 +128,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - Gitlab: Realização de commits de informações do projeto e auxilio no readme.
 
 
-#### Soft Skills Efetivamente Desenvolvidas
+####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos. 
 
@@ -136,7 +136,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Meus Principais Conhecimentos
+# :heavy_check_mark: Meus Principais Conhecimentos
 - Mysql;
 - Github;
 - Gitlab;
