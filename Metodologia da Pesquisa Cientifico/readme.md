@@ -18,16 +18,16 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 #### :desktop_computer: Tecnologias Utilizadas
 
-- Github
-- FIGMA
-- App Inventor
-- Firebase
+- Github: Para a compactação de arqiuivos e expliucação do proejto realizado;
+- FIGMA: Monatgem dos wireframes do projeto;
+- App Inventor: Montagem do app para transporte de van;
+- Firebase: Para o armazenamento de dados cadastrados de cada usuario do sistema;
 - Metodologia Scrum
 
 # Contribuições Pessoais:
 
-- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor 
-na qual tambem contribui em prol do grupo e realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto.
+- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor na qual tambem contribui em prol do grupo 
+- Realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto.
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - App Inventor;
@@ -58,7 +58,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - GRADEL;
 - POSTGIS;
 
-## Contribuições Pessoais
+# Contribuições Pessoais:
 - Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
@@ -88,7 +88,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - REACT;
 - VSCODE;
 
-## Contribuições Pessoais
+# Contribuições Pessoais:
 - Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
@@ -117,16 +117,17 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - gitlab;
 - git;
 
-## Contribuições Pessoais
+# Contribuições Pessoais:
 - Contribui para a realização de videos explicativos para o P.O ter uma melhor compreensão do passo a passo da realização do projeto;
-- Contribui na construção do banco de dados do projeto, em desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
+-  auxilio no desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
 - Postgree: Na realização do modelo do banco de dados que sera utilizado pela equipe;
 - BR modelo: contrução do modelo logico e conceitual.
 - Gitlab: Realização de commits de informações do projeto e auxilio no readme.
-
+- FIGMA: Desenvolvimento dos wireframes do projeto.
+- Excel: Construção dos arquivos csv do projeto.
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
