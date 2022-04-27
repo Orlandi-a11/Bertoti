@@ -26,8 +26,8 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 # Contribuições Pessoais:
 
-- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor na qual tambem contribui em prol do grupo 
-- Realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto.
+- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor na qual tambem contribui em prol do grupo; 
+- Realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto;
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - App Inventor;
