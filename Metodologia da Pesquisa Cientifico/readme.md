@@ -51,12 +51,12 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 
 #### :desktop_computer: Tecnologias Utilizadas
-- Postgree;
+- Postgree: : Para inserção de dados de municipios do sistema car no banco de dados;
 - JAVA;
-- ECLIPSE;
+- ECLIPSE:Plataforma para a utilização do sistema do backend em java;
 - JAVASCRPT;
 - GRADEL;
-- POSTGIS;
+- POSTGIS: Montagem de vizualização do sistema  
 
 # Contribuições Pessoais:
 - Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
