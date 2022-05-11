@@ -18,11 +18,10 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 #### :desktop_computer: Tecnologias Utilizadas
 
-- Github: Para a compactação de arqiuivos e expliucação do proejto realizado;
-- FIGMA: Monatgem dos wireframes do projeto;
-- App Inventor: Montagem do app para transporte de van;
-- Firebase: Para o armazenamento de dados cadastrados de cada usuario do sistema;
-- Metodologia Scrum
+- Github;
+- FIGMA;
+- Firebase;
+- Metodologia Scrum;
 
 # Contribuições Pessoais:
 
@@ -38,7 +37,6 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
  #### :hammer_and_wrench: Soft Skills  Desenvolvidas:
 
 - Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
-- Trabalhar sob pressão: Na qual em alguns momentos presivamos nos esforçar para realizar a entrega no prazo desejado e realizar diversas atividades em curto periodo de tempo.
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 - Adaptação: Outra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
 
@@ -51,12 +49,12 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 
 #### :desktop_computer: Tecnologias Utilizadas
-- Postgree: : Para inserção de dados de municipios do sistema car no banco de dados;
+- Postgree;
 - JAVA;
-- ECLIPSE:Plataforma para a utilização do sistema do backend em java;
+- ECLIPSE;
 - JAVASCRPT;
 - GRADEL;
-- POSTGIS: Montagem de vizualização do sistema  
+- POSTGIS; 
 
 # Contribuições Pessoais:
 - Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
@@ -90,6 +88,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 # Contribuições Pessoais:
 - Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
+- Contribui para o desenvolvimento de toda parte de respoitório do projeto, no readme, videos explicativos e toda a programação realizada ao decorrer do projeto. 
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 - JAVA;
