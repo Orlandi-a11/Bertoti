@@ -91,9 +91,9 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - Contribui para o desenvolvimento de toda parte de respoitório do projeto, no readme, videos explicativos e toda a programação realizada ao decorrer do projeto. 
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
-- JAVA: Auxilio na programação do backend do projeto;
+- JAVA:Auxilio na programação do backend do projeto;
 - Postgree:Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
-- REACT;
+- Gitlab:Realização de commits de informações do projeto e auxilio no readme e para a melhor compreensão do que sera entregue ao cliente.
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
@@ -142,7 +142,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - Gitlab;
 - Postgree;
 - Figma;
-- Java SE;
+- Phyton;
 
 ## Contatos
 * [GIT](https://github.com/Orlandi-a11)
