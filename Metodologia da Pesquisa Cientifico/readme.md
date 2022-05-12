@@ -29,9 +29,9 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto;
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
-- App Inventor;
-- Figma;
-- Metodologia Scrum;
+- App Inventor: criação das telas do projeto e programação em blocos das tela; 
+- Figma: Para a realizaçao das prototipagens das telas;
+- Metodologia Scrum: inicio da explicação e entendimento aplicado no projeto de tal metodologia ;
 
 
  #### :hammer_and_wrench: Soft Skills  Desenvolvidas:
@@ -57,11 +57,11 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - POSTGIS; 
 
 # Contribuições Pessoais:
-- Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buncando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
+- Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buscando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
-- POSTGREE: Para inserção de dados de municipios do sistema car no banco de dados;
+- POSTGREE: Para criação do banco e inserção de dados de municipios do sistema car no banco de dados;
 - Gitlab: realização de commits do projetos,criação do readme e inserção de videos explicativos do projeto;
 
 
@@ -91,13 +91,13 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - Contribui para o desenvolvimento de toda parte de respoitório do projeto, no readme, videos explicativos e toda a programação realizada ao decorrer do projeto. 
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
-- JAVA;
-- Postgree; 
+- JAVA: Auxilio na programação do backend do projeto;
+- Postgree:Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
 - REACT;
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
-- Trabalho em Equipe:Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
+- Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
