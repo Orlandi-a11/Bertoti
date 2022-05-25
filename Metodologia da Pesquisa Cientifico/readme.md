@@ -25,8 +25,17 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 # Contribuições Pessoais:
 
-- Auxiliei na montagem do design das telas do figma; Para assim, iniciar a sua montagem de tais  telas no própio app inventor na qual tambem contribui em prol do grupo; 
-- Realizei a programação da tela de cadastro e inicio do aplicativo para assim auxiliar nos demais serviços do projeto;
+1 sprint - Protipação da aplicação:
+- Auxilio na prototipagem de algumas telas da nosso aplicativo (vai deVan), utilizei o editor grafico Figma.
+
+2° Sprint - Criação das Telas no App Inventor:
+- Desenvolvi as telas de cadastro (de usuario, e passageiro), Tela de login (usuario e passageiro) e Todas baseadas no prototipo (feito na primeira sprint);
+
+3° Sprint - Integração das telas com o Banco de Dado Firebase:
+- Integração da telas com o Banco de Dado Firebase, sendo possivel guardar os dados do motorista, e sua lista de passageiro, para assim melhor gerenciar;
+
+4° Sprint - Video ilustrativo do funcionamento do aplicativo:
+- Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada.
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - App Inventor: criação das telas do projeto e programação em blocos das tela; 
@@ -57,7 +66,22 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - POSTGIS; 
 
 # Contribuições Pessoais:
-- Contribui na construção do banco de dados do projeto, Seja no modelo conceitual dele,logico e sua inserção de dados no postgree, construi toda a parte de documentação do projeto ,buscando a construção do readme ,portifolio  e videos e imagens com o intuito de construir uma visão mais ampla do que se foi realizado no projeto apresentado.
+1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
+- Auxilio na montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+
+2° Sprint - Upload dos arquivos shapefile:
+- Inicio dos downlaod dos arquivos shapefile para a sua vizualiazação no projeto;
+
+3° Sprint - Auxilio com a montagem do readme e inserção dos dados da Aplicação:
+- Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
+
+4° Sprint - Video ilustrativo do funcionamento do aplicativo e Upload dos arquivos shapefile:
+- Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada e finalização de uploads dos demais arquivos shapefile para a demonstração final do projeto.
+
+#### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
+- App Inventor: criação das telas do projeto e programação em blocos das tela; 
+- Figma: Para a realizaçao das prototipagens das telas;
+- Metodologia Scrum: inicio da explicação e entendimento aplicado no projeto de tal metodologia ;
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
@@ -87,8 +111,14 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - VSCODE;
 
 # Contribuições Pessoais:
-- Contruibui na construção do banco de dados do projeto, contrução da tela de controle de atividades e montagem da documentação de todo o projeto no gitlab.
-- Contribui para o desenvolvimento de toda parte de respoitório do projeto, no readme, videos explicativos e toda a programação realizada ao decorrer do projeto. 
+ 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
+- Auxilio na montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+
+2° Sprint/3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
+- Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
+
+4° Sprint - Montagem de readme separados:
+- Foi criado um readme para cada realização da sprint para evitar excesso de informações no readme principale  possuir mais detalhes do que estava sendo realizado em cada uma das etapas.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 - JAVA:Auxilio na programação do backend do projeto;
@@ -117,8 +147,14 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - git;
 
 # Contribuições Pessoais:
-- Contribui para a realização de videos explicativos para o P.O ter uma melhor compreensão do passo a passo da realização do projeto;
--  auxilio no desenvolvimento com todo grupo realizei os wireframes das telas e criação dos canais de comunicação do grupo em discord e Teams.
+1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
+- Criação e  montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+
+2° Sprint - Alterações no banco de dados e alteração da plataforma:
+- Realizei algumas alterações de coluna e tabela para sua intergração ao backend e para inseri-lo em formato oracle sqlDevolper;
+
+3° Sprint - Configuração do oracle cloud:
+- Trabalho na criação e configuração para realizar a integração do oracle cloud no projeto;
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
