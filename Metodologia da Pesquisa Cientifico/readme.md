@@ -49,6 +49,10 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 - Adaptação: Outra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
 
+#### :right_anger_bubble: Dificuldades e conclusão: Minhas maiores dificuldades encontradas neste primeiro projeto foi compreender as principais cvaracteriscas da metodologia scrum para a realização das atividades propostas pelos professores e tambem a realização das montagens das telas do app inventor por ser uma primeira vez de uso da plataforma e seu funcionamento em geral.
+
+
+#### :hammer_and_wrench: Soft Skills  Desenvolvidas: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### :open_file_folder: Em 2021-1
