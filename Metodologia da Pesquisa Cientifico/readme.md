@@ -87,10 +87,9 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada e finalização de uploads dos demais arquivos shapefile para a demonstração final do projeto.
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
-- App Inventor: criação das telas do projeto e programação em blocos das tela; 
-- Figma: Para a realizaçao das prototipagens das telas;
-- Metodologia Scrum: inicio da explicação e entendimento aplicado no projeto de tal metodologia ;
-
+- Gitlab: Na construção do readme e realização das sprints do projeto; 
+- Postgree: Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
+- 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
 - POSTGREE: Para criação do banco e inserção de dados de municipios do sistema car no banco de dados;
