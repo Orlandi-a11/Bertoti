@@ -183,7 +183,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
  
- #### :right_anger_bubble: Dificuldades e Conclusão: 
+ #### :right_anger_bubble: Dificuldades e Conclusão: A minha maior dificuldade nesta sprint foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
