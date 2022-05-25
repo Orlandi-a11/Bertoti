@@ -52,6 +52,10 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 #### :right_anger_bubble: Dificuldades e conclusão: Minhas maiores dificuldades encontradas neste primeiro projeto foi compreender as principais cvaracteriscas da metodologia scrum para a realização das atividades propostas pelos professores e tambem a realização das montagens das telas do app inventor por ser uma primeira vez de uso da plataforma e seu funcionamento em geral.
 
 
+
+
+
+
 #### :hammer_and_wrench: Soft Skills  Desenvolvidas: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -98,6 +102,11 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - Autoconfiança: neste projeto desenvolvi bastante a autoconfiança para as entregas no quesito de saber o que foi entregue e aquilo que esta em meu alcance  e estimado para tal.
 - Resiliencia: e com isso a resiliencia devido as dificuldades que tive durante o projeto e ter a resiliencia para continuar e se esforça e sempre tentar novamente uma vez após a outra para tentar entregar o desejado em cada uma das sprints.
 
+#### :right_anger_bubble: dificuldades e conclusão: Neste segundo projeto tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### :open_file_folder: Em 2021-2
@@ -132,6 +141,8 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
+
+#### :right_anger_bubble: dificuldades e conclusão: Neste terceiro projeto minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -170,7 +181,9 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
- -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos. 
+ -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
+ 
+ #### :right_anger_bubble: dificuldades e conclusão: 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
