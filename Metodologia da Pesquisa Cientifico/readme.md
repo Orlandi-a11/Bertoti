@@ -103,7 +103,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 #### :right_anger_bubble: Dificuldades e Conclusão: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
 
-
+                                
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
