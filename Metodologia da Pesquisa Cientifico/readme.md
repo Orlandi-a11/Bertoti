@@ -49,11 +49,21 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 - Adaptação: Outra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
 
-#### :right_anger_bubble: Dificuldades e Conclusão: Minhas maiores dificuldades encontradas neste primeiro projeto API, foi compreender as principais cvaracteriscas da metodologia scrum para a realização das atividades propostas pelos professores e tambem a realização das montagens das telas do app inventor por ser uma primeira vez de uso da plataforma e seu funcionamento em geral.
+#### :right_anger_bubble: Dificuldade: Minhas maiores dificuldades encontradas neste primeiro projeto API, foi compreender as principais caracteriscas da metodologia scrum para a realização das atividades propostas pelos professores e tambem a realização das montagens das telas do app inventor por ser uma primeira vez de uso da plataforma e seu funcionamento em geral.
 
+#### :right_anger_bubble: Conclusão:
 
+- Nesse api desenvolvi meu raciocinio logico.
 
+- Aprendi a logica de programação.
 
+- Aprendi na pratica a metodologia Scrum Master.
+
+- Aprendi Aplicação de APis.
+
+- Aprendi Modelagem de dados não relacionais.
+
+- :link: [Video_Projeto](https://www.youtube.com/watch?v=blNKX1gmekY).   
 
 
 #### :hammer_and_wrench: Soft Skills  Desenvolvidas: 
@@ -101,9 +111,15 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - Autoconfiança: neste projeto desenvolvi bastante a autoconfiança para as entregas no quesito de saber o que foi entregue e aquilo que esta em meu alcance  e estimado para tal.
 - Resiliencia: e com isso a resiliencia devido as dificuldades que tive durante o projeto e ter a resiliencia para continuar e se esforça e sempre tentar novamente uma vez após a outra para tentar entregar o desejado em cada uma das sprints.
 
-#### :right_anger_bubble: Dificuldades e Conclusão: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
+#### :right_anger_bubble: Dificuldades: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
 
-                                
+#### :right_anger_bubble: Conclusão:
+- Neste projeto aprendi a respeito de analise de areas de imoveis de forma vetorial
+- como analisar e realizar download dos arquivos shapefile de forma organizada;
+- Uso dos banco de dados para armazenamento destes dados dos arquivos shapefile;
+- como agilizar o processo de analise de dados de forma mais organizada,de acordo com o requisito necessario;
+
+- :link: [Video_Projeto](https://gitlab.com/orl22/projeto_pi3/-/blob/master/apresentacoes/API_-_Apresentacao_-_Sprint_3.pptx).                              
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -141,7 +157,14 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 
-#### :right_anger_bubble: Dificuldades e Conclusão: Neste terceiro projeto do API minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
+#### :right_anger_bubble: Dificuldades: Neste terceiro projeto do API minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
+
+#### :right_anger_bubble: Conclusão:
+- Neste projeto aprendi a respeito do sistema de gerenciamento e votação de atividades (Planning poker) funcional;
+- como dsenvolver um ambiente adequado a realização da retrospectiva do sistema;
+- Implementar o sistema de forma a garantir a experiência do usuário de forma interativa;
+
+- :link: [Video_Projeto](https://gitlab.com/vitorlimadomingues/3periodo_devstore/-/raw/main/Apresenta%C3%A7%C3%A3o/Video_Produto_Sprint_4.mkv)                            
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -183,7 +206,11 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
  
  #### :right_anger_bubble: Dificuldades e Conclusão: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
-
+ 
+#### :right_anger_bubble: Conclusão:
+- Aprendi neste projeto a segmentar para descobrir novas demandas de produtos por regioes;
+- como auxiliar em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
+- E gerar uma melhora de visibilidade da base de clientes a partir da leitura de arquivos CSV;
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
