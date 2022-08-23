@@ -212,6 +212,8 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - como auxiliar em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
 - E gerar uma melhora de visibilidade da base de clientes a partir da leitura de arquivos CSV;
 
+- :link: [Projeto](https://gitlab.com/vueforce1/lefoot)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
