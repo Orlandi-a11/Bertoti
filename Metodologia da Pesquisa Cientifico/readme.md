@@ -200,6 +200,8 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - Gitlab: Realização de commits de informações do projeto e auxilio no readme.
 - FIGMA: Desenvolvimento dos wireframes do projeto.
 - Excel: Construção dos arquivos csv do projeto.
+- Oracle cloud: introdução do uso da  ferramenta para a inserção do banco de dados e programação da envio de confirmação de email para o usuário.  
+
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
@@ -212,7 +214,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 - como auxiliar em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
 - E gerar uma melhora de visibilidade da base de clientes a partir da leitura de arquivos CSV;
 
-- :link: [Projeto](https://gitlab.com/vueforce1/lefoot)
+- :link: [Projeto_video](https://gitlab.com/vueforce1/lefoot)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
