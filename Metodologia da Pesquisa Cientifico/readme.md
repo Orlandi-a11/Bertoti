@@ -87,7 +87,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 # Contribuições Pessoais:
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
-- Auxilio na montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+- Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint - Upload dos arquivos shapefile:
 - Inicio dos downlaod dos arquivos shapefile para a sua vizualiazação no projeto;
@@ -101,7 +101,8 @@ E para completar uma solução para o problema de não ter uma base de dados com
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - Gitlab: Na construção do readme e realização das sprints do projeto; 
 - Postgree: Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
-- 
+- Java: na montagem do sistema de descompactação dos sistemas shapefiles;
+
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
 - POSTGREE: Para criação do banco e inserção de dados de municipios do sistema car no banco de dados;
@@ -116,10 +117,10 @@ E para completar uma solução para o problema de não ter uma base de dados com
 #### :right_anger_bubble: Dificuldades: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
 
 #### :right_anger_bubble: Conclusão:
-- Neste projeto aprendi a respeito de analise de areas de imoveis de forma vetorial
-- como analisar e realizar download dos arquivos shapefile de forma organizada;
-- Uso dos banco de dados para armazenamento destes dados dos arquivos shapefile;
-- como agilizar o processo de analise de dados de forma mais organizada,de acordo com o requisito necessario;
+- Neste projeto aprendi a respeito de analise de areas de imoveis de forma vetorial;
+- como analisar e realizar download dos arquivos shapefile de forma organizada, em formato do mapa;
+- Uso dos banco de dados para armazenamento e inclusão destes dados dos arquivos shapefile para sua vizualização no sistema;
+- como agilizar o processo de analise de dados de forma mais sucinta,organizada e detalhado, de acordo com o requisito necessario;
 
 - :link: [Video_Projeto](https://gitlab.com/orl22/projeto_pi3/-/blob/master/apresentacoes/API_-_Apresentacao_-_Sprint_3.pptx).                              
 
@@ -142,7 +143,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 # Contribuições Pessoais:
  1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
-- Auxilio na montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+- Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint/3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
 - Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
@@ -187,7 +188,7 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 
 # Contribuições Pessoais:
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
-- Criação e  montagem do banco de dados e inicio de sua aplicAÇÃO EM PGadm;
+- Criação e  montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint - Alterações no banco de dados e alteração da plataforma:
 - Realizei algumas alterações de coluna e tabela para sua intergração ao backend e para inseri-lo em formato oracle sqlDevolper;
@@ -208,13 +209,16 @@ Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi propos
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
+ -  detalhamento:
  
  #### :right_anger_bubble: Dificuldades e Conclusão: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
  
 #### :right_anger_bubble: Conclusão:
-- Aprendi neste projeto a segmentar para descobrir novas demandas de produtos por regioes;
+- Aprendi neste projeto a segmentar para descobrir novas demandas de produtos por regiões;
+- Como atingir uma deterinada demanda de clientes por local e por preferencia  de determinados produtos de cada local;
 - como auxiliar em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
 - E gerar uma melhora de visibilidade da base de clientes a partir da leitura de arquivos CSV;
+
 
 - :link: [Projeto_video](https://gitlab.com/vueforce1/lefoot)
 
