@@ -19,7 +19,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 
 #### :desktop_computer: Tecnologias Utilizadas
-
+-
 - Github;
 - FIGMA;
 - Firebase;
