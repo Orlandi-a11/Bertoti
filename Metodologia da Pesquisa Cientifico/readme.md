@@ -1,7 +1,9 @@
 orlando Pereira de Seixas Neto
 :mortar_board:
+
 - RA: 1460282023038.
-- 
+- Professor: Giuliano Bertoti;
+- Disciplina: Projeto Trabalho de Graduação em Banco de Dados;
 
 
 # :abacus: Portifólio de API 
