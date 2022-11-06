@@ -15,6 +15,8 @@ Olá, meu nome é Orlando, sou Estudante de Banco de Dados na Fatec - SJC. Duran
 #### :open_file_folder: Em 2020-2
 Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parceiro Acadêmico Professor Fabiano Sabha, que tinha como objetivo é a integração entre motorista e passageiros para melhora do transporte para ambos,na qual o motorista poderá acessar às informações de todos os passageiros de forma rápida e prática e da mesma forma poderá avisar aos seus usuários o horário previsto de chegada e também, através de mensagens padronizadas, informar de alguns imprevistos e entre outros fatores.
 
+[<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/V_VanTec.jpg" /></center>](https://gitlab.com/vanzeiros-do-vale/vantec)
+
 - :link: [GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
 
 
@@ -73,9 +75,12 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 #### :open_file_folder: Em 2021-1
 Trabalhei no projeto da API com o Parceiro Acadêmico VISIONA.<br> que nos deu o objetivo tem  desenvolver um MVP que forneça ao cliente uma base de dados completa, confiável e organizada com as informações oriundas do sistema CAR. Para isso será utilizado ferramentas do ciclo de aprendizado e metodologia a SCRUM (entregas e desenvolvimento ágil), nas sprints demonstraremos e entregaremos de forma gradativa desde a aquisição, leitura e depuração das informações até a construção e finalização do banco de dados.
+ ![img_visiona](https://github.com/gabsana/Bertoti/blob/main/imagens/Logo_Visiona.png)<br>
 E para completar uma solução para o problema de não ter uma base de dados comunizada, unificada e organizada dos registros que são disponibilizados pelos proprietários das áreas rurais, através do cadastro ambiental rural (CAR). A empresa fornece a órgãos públicos e privados um registro geoprocessado por imagens de satélite orbitais, que tem por finalidade comparar os dados de dimensões territoriais, áreas de preservação, entes hídricos, topografia e outros dados referentes a propriedade, estes dados são comparados com a imagens de satélite em tempo real por isso é necessário que estejam atualizados e organizados.
--  :link: [GIT](https://gitlab.com/orl22/projeto_pi3).
 
+ [<center><img src="https://github.com/gabsana/Bertoti/blob/main/imagens/LogoConsultCAR_50px.png" /></center>](https://github.com/equipe-tetris/ConsultCAR)
+
+-  :link: [GIT](https://gitlab.com/orl22/projeto_pi3).
 
 #### :desktop_computer: Tecnologias Utilizadas
 - Postgree;
@@ -131,6 +136,8 @@ E para completar uma solução para o problema de não ter uma base de dados com
 Trabalhei no projeto da API com o Parceiro Acadêmico IACIT.<br> um importante polo da indústria aeroespacial do Brasil.
 Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.Na qual Projetamos uma aplicação Web que contemple a apresentação de um sistema de Planning, com uma criação simples e direta de atividades e de um sistema de votação, além da parte de retrospectiva, onde o usuário poderá se cadastrar como Scrum Master ou entrar como desenvolvedor para a realização das votações.
 
+![img_iacit](https://github.com/gabsana/Bertoti/blob/main/imagens/iacit.jpg)<br> 
+
 - :link: [GIT](https://gitlab.com/vitorlimadomingues/3periodo_devstore).
 
 #### :desktop_computer: Tecnologias Utilizadas
@@ -173,7 +180,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### :open_file_folder: Em 2022-1
-Nesta Sprint estamos trabalhando com a Empresa Oracle.<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das vendas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
+Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabsana/Bertoti/blob/main/imagens/oracle.jpeg)<br> em que nos foi proposto realizar um projeto que filtrasse os dados de consumo dos clientes de uma região especifica e determinada loja , para melhor filtragem de consumo na parte dos gerentes e compreensão das vendas,formas de pagamentos,produtos utilizados a partir da região entre outros fatores.
 
 - :link: [GIT](https://gitlab.com/vueforce1/lefoot).
 
