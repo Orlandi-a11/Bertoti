@@ -220,7 +220,7 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
  -  detalhamento:
  
- #### :right_anger_bubble: Dificuldades e Conclusão: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
+ #### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
  
 #### :right_anger_bubble: Conclusão:
 - Aprendi neste projeto a segmentar para descobrir novas demandas de produtos por regiões;
