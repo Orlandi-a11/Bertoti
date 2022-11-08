@@ -8,7 +8,7 @@ orlando Pereira de Seixas Neto
 
 # :abacus: Portifólio de API 
 
-Olá, meu nome é Orlando, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's, consegui ampliar meus conhecimentos nas diversas tecnologias e tambem Hard Skills quanto Soft Skills e foi uma experiencia muito promissora, com uma experiencia mais real do que iremos realizar o mercado de trabalho. Onde ao realizar tais atividades,  é de suma importancia a  persistencia e o foco na busca mais um conhecimento novo, para completar as atividades designadas.
+Olá, meu nome é Orlando, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's, consegui ampliar meus conhecimentos nas diversas tecnologias usadas, hard Skills e Soft Skills na qual, foi uma experiencia muito promissora, com uma experiencia mais real do que iremos realizar o mercado de trabalho. Onde ao realizar tais atividades,  é de suma importancia a  persistencia e o foco na busca mais um conhecimento novo, para completar as atividades designadas.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Firebase;
 - Metodologia Scrum;
 
-# Contribuições Pessoais:
+# Contribuições Pessoais por sprint:
 
 1 sprint - Protipação da aplicação:
 - Auxilio na prototipagem de algumas telas da nosso aplicativo (vai deVan), utilizei o editor grafico Figma.
@@ -44,6 +44,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada.
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
+
 - App Inventor: criação das telas do projeto e programação em blocos das tela; 
 - Figma: Para a realizaçao das prototipagens das telas;
 - Metodologia Scrum: inicio da explicação e entendimento aplicado no projeto de tal metodologia ;
@@ -92,7 +93,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - GRADEL;
 - POSTGIS; 
 
-# Contribuições Pessoais:
+# Contribuições Pessoais por sprint:
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
@@ -124,10 +125,11 @@ E para completar uma solução para o problema de não ter uma base de dados com
 #### :right_anger_bubble: Dificuldades: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
 
 #### :right_anger_bubble: Conclusão:
-- Neste projeto aprendi a respeito de analise de areas de imoveis de forma vetorial;
-- como analisar e realizar download dos arquivos shapefile de forma organizada, em formato do mapa;
+
+- Aprendi a respeito de analise de areas de imoveis de forma vetorial;
+- Analise e realização de download dos arquivos shapefile de forma organizada, em formato do mapa;
 - Uso dos banco de dados para armazenamento e inclusão destes dados dos arquivos shapefile para sua vizualização no sistema;
-- como agilizar o processo de analise de dados de forma mais sucinta,organizada e detalhado, de acordo com o requisito necessario;
+- Agilidade no processo de analise de dados de forma mais sucinta,organizada e detalhado, de acordo com o requisito necessario;
 
 - :link: [Video_Projeto](https://gitlab.com/orl22/projeto_pi3/-/blob/master/apresentacoes/API_-_Apresentacao_-_Sprint_3.pptx).                              
 
@@ -150,31 +152,34 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - REACT;
 - VSCODE;
 
-# Contribuições Pessoais:
+# Contribuições Pessoais por sprint:
+
  1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
-2° Sprint/3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
+2° Sprint & 3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
 - Trabalhamos numa montagem de um readme dinamico e o com o maximo de detalhes possiveis para a compreensão dos clientes e demais;
 
 4° Sprint - Montagem de readme separados:
 - Foi criado um readme para cada realização da sprint para evitar excesso de informações no readme principale  possuir mais detalhes do que estava sendo realizado em cada uma das etapas.
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
-- JAVA:Auxilio na programação do backend do projeto;
-- Postgree:Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
-- Gitlab:Realização de commits de informações do projeto e auxilio no readme e para a melhor compreensão do que sera entregue ao cliente.
+- JAVA: Auxilio na programação do backend do projeto;
+- Postgree: Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
+- Gitlab: Realização de commits de informações do projeto e auxilio no readme e para a melhor compreensão do que sera entregue ao cliente.
+
 
 ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 
+
 #### :right_anger_bubble: Dificuldades: Neste terceiro projeto do API minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
 
 #### :right_anger_bubble: Conclusão:
-- Neste projeto aprendi a respeito do sistema de gerenciamento e votação de atividades (Planning poker) funcional;
-- como dsenvolver um ambiente adequado a realização da retrospectiva do sistema;
-- Implementar o sistema de forma a garantir a experiência do usuário de forma interativa;
+- Aprendi sobre sistemas de gerenciamento e votação de atividades (Planning poker) funcional;
+- Desenvolvimento de um ambiente adequado a realização da retrospectiva do sistema;
+- Implementação de sistema de forma a garantir a experiência do usuário de forma interativa;
 
 - :link: [Video_Projeto](https://gitlab.com/vitorlimadomingues/3periodo_devstore/-/raw/main/Apresenta%C3%A7%C3%A3o/Video_Produto_Sprint_4.mkv)                            
 
@@ -195,7 +200,7 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - gitlab;
 - git;
 
-# Contribuições Pessoais:
+# Contribuições Pessoais por sprint:
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
 - Criação e  montagem do banco de dados e inicio de sua aplicação em PGadm;
 
@@ -223,10 +228,10 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
  #### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
  
 #### :right_anger_bubble: Conclusão:
-- Aprendi neste projeto a segmentar para descobrir novas demandas de produtos por regiões;
+- Aprendi segmentação para descobrir novas demandas de produtos por regiões;
 - Como atingir uma deterinada demanda de clientes por local e por preferencia  de determinados produtos de cada local;
-- como auxiliar em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
-- E gerar uma melhora de visibilidade da base de clientes a partir da leitura de arquivos CSV;
+- Auxilio em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
+- Melhoria de visibilidade da base de clientes a partir da leitura de arquivos CSV;
 
 
 - :link: [Projeto_video](https://gitlab.com/vueforce1/lefoot)
