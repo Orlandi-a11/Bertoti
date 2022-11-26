@@ -98,7 +98,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 <details>
 <summary> # Contribuições Pessoais: </summary>
-1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
+1° sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint - Upload dos arquivos shapefile:
