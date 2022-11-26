@@ -176,7 +176,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 
 <details>
-<summary> ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
+<summary> #### :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
 </details>
@@ -210,7 +210,7 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - git;
 
 <details>
-<summary> # Contribuições Pessoais por sprint: </summary>
+<summary> # Contribuições Pessoais :</summary>
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
 - Criação e  montagem do banco de dados e inicio de sua aplicação em PGadm;
 
@@ -233,9 +233,8 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 
 <details>
 <summary> ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
- -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
- -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
- -  detalhamento:
+ -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos;
+ -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos;
   </details>
   
 #### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
@@ -244,8 +243,11 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 <details>
 <summary> #### :right_anger_bubble: Conclusão: </summary>
 - Aprendi segmentação para descobrir novas demandas de produtos por regiões;
+ 
 - Como atingir uma deterinada demanda de clientes por local e por preferencia  de determinados produtos de cada local;
+ 
 - Auxilio em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
+ 
 - Melhoria de visibilidade da base de clientes a partir da leitura de arquivos CSV;
 </details>
 
@@ -255,13 +257,13 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 
 
 <details>
-<summary> # :heavy_check_mark: Meus Principais Conhecimentos:  </summary>
-- Mysql;
-- Github;
-- Gitlab;
-- Postgree;
-- Figma;
-- Phyton;
+<summary> # :heavy_check_mark: Meus Principais Conhecimentos:</summary>
+-  Mysql;
+-  Github;
+-  Gitlab;
+-  Postgree;
+-  Figma;
+-  Phyton; 
 </details>
 
 ## Contatos
