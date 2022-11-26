@@ -7,11 +7,11 @@ orlando Pereira de Seixas Neto
 - Orientador: Carlos Garcia
 
 # :abacus: Portifólio de API 
-
+<details>
+<summary> Apresentação :heavy_check_mark: </summary>
 Olá, meu nome é Orlando, sou Estudante de Banco de Dados na Fatec - SJC. Durante o desenvolvimento dos API's, consegui ampliar meus conhecimentos nas diversas tecnologias usadas, hard Skills e Soft Skills na qual, foi uma experiencia muito promissora, com uma experiencia mais real do que iremos realizar o mercado de trabalho. Onde ao realizar tais atividades,  é de suma importancia a  persistencia e o foco na busca mais um conhecimento novo, para completar as atividades designadas.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+</details>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 # :office: Meus Projetos
 
 #### :open_file_folder: Em 2020-2
@@ -21,15 +21,14 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 - :link: [GIT](https://github.com/Valdineynascimento/projeto_integrador_coffeend).
 
-
 #### :desktop_computer: Tecnologias Utilizadas
-
 - Github;
 - FIGMA;
 - Firebase;
 - Metodologia Scrum;
 
-# Contribuições Pessoais por sprint:
+<details>
+<summary> # Contribuições Pessoais: </summary>
 
 1 sprint - Protipação da aplicação:
 - Auxilio na prototipagem de algumas telas da nosso aplicativo (vai deVan), utilizei o editor grafico Figma.
@@ -42,6 +41,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 4° Sprint - Video ilustrativo do funcionamento do aplicativo:
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada.
+</details>
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 
@@ -49,16 +49,19 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Figma: Para a realizaçao das prototipagens das telas;
 - Metodologia Scrum: inicio da explicação e entendimento aplicado no projeto de tal metodologia ;
 
-
- #### :hammer_and_wrench: Soft Skills  Desenvolvidas:
+<details>
+<summary> #### :hammer_and_wrench: Soft Skills  Desenvolvidas: </summary>
 
 - Trabalho em equipe: Na qual tivemos que desenvolver bastante para esta primeira entrega e compreender o que cada um tem a oferecer ao projeto.
 - Comunicativo: Desenvolvi bastante esta Soft Skills para sanar todas as duvidas ao decorrer do projeto e alem disso a comunicação entre o grupo para imediatamente instruir o grupo do que estava sendo feito e o que se deve melhorar.
 - Adaptação: Outra soft skill de suma importancia que desenvolvi com um sistema tptalmente novo do API e experiencias com o trabalho em equipe na area de tecnologia pela primeira vez e compreensão e primeira experiencia com a metodologia scrum.
+</details>
 
 #### :right_anger_bubble: Dificuldade: Minhas maiores dificuldades encontradas neste primeiro projeto API, foi compreender as principais caracteriscas da metodologia scrum para a realização das atividades propostas pelos professores e tambem a realização das montagens das telas do app inventor por ser uma primeira vez de uso da plataforma e seu funcionamento em geral.
 
-#### :right_anger_bubble: Conclusão:
+
+<details>
+<summary> #### :right_anger_bubble: Conclusão: </summary>
 
 - Nesse api desenvolvi meu raciocinio logico.
 
@@ -69,11 +72,11 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Aprendi Aplicação de APis.
 
 - Aprendi Modelagem de dados não relacionais.
+</details>
 
 - :link: [Video_Projeto](https://www.youtube.com/watch?v=blNKX1gmekY).   
 
 
-#### :hammer_and_wrench: Soft Skills  Desenvolvidas: 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### :open_file_folder: Em 2021-1
@@ -93,7 +96,8 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - GRADEL;
 - POSTGIS; 
 
-# Contribuições Pessoais por sprint:
+<details>
+<summary> # Contribuições Pessoais: </summary>
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
@@ -105,31 +109,30 @@ E para completar uma solução para o problema de não ter uma base de dados com
 
 4° Sprint - Video ilustrativo do funcionamento do aplicativo e Upload dos arquivos shapefile:
 - Realizei os videos ilustrativos da aplicação em funcionamento com explicação para a compreensão melhor de todos e com a aplicação finalizada e finalização de uploads dos demais arquivos shapefile para a demonstração final do projeto.
+</details>
 
 #### :chart_with_downwards_trend:	Hard Skills Desenvolvidas:
 - Gitlab: Na construção do readme e realização das sprints do projeto; 
 - Postgree: Na Realização do modelo do banco de dados que sera utilizado pela equipe; 
 - Java: na montagem do sistema de descompactação dos sistemas shapefiles;
 
-#### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
-
-- POSTGREE: Para criação do banco e inserção de dados de municipios do sistema car no banco de dados;
-- Gitlab: realização de commits do projetos,criação do readme e inserção de videos explicativos do projeto;
-
-
-#### Soft Skills Efetivamente Desenvolvidas
+<details>
+<summary> #### Soft Skills Efetivamente Desenvolvidas: </summary>
 
 - Autoconfiança: neste projeto desenvolvi bastante a autoconfiança para as entregas no quesito de saber o que foi entregue e aquilo que esta em meu alcance  e estimado para tal.
 - Resiliencia: e com isso a resiliencia devido as dificuldades que tive durante o projeto e ter a resiliencia para continuar e se esforça e sempre tentar novamente uma vez após a outra para tentar entregar o desejado em cada uma das sprints.
 
 #### :right_anger_bubble: Dificuldades: Neste segundo projeto de API, tive mais dificuldades para a monatgem do banco de dados,pois tambem foi uma primeira experiencia com a plataforma e estrutura , a realização dos codigos e como funcionaria num contexto geral do projeto.
+</details>
 
-#### :right_anger_bubble: Conclusão:
+<details>
+<summary> #### :right_anger_bubble: Conclusão: </summary>
 
 - Aprendi a respeito de analise de areas de imoveis de forma vetorial;
 - Analise e realização de download dos arquivos shapefile de forma organizada, em formato do mapa;
 - Uso dos banco de dados para armazenamento e inclusão destes dados dos arquivos shapefile para sua vizualização no sistema;
 - Agilidade no processo de analise de dados de forma mais sucinta,organizada e detalhado, de acordo com o requisito necessario;
+</details>
 
 - :link: [Video_Projeto](https://gitlab.com/orl22/projeto_pi3/-/blob/master/apresentacoes/API_-_Apresentacao_-_Sprint_3.pptx).                              
 
@@ -152,7 +155,9 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - REACT;
 - VSCODE;
 
-# Contribuições Pessoais por sprint:
+
+<details>
+<summary> # Contribuições Pessoais por sprint: </summary>
 
  1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
@@ -162,6 +167,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 4° Sprint - Montagem de readme separados:
 - Foi criado um readme para cada realização da sprint para evitar excesso de informações no readme principale  possuir mais detalhes do que estava sendo realizado em cada uma das etapas.
+</details>
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 - JAVA: Auxilio na programação do backend do projeto;
@@ -169,17 +175,20 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - Gitlab: Realização de commits de informações do projeto e auxilio no readme e para a melhor compreensão do que sera entregue ao cliente.
 
 
-####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
+<details>
+<summary> ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
 - Proatividade: Na qual me empenhei para buscar o conhecimento necessario para a realização desta atividades proposta pela equipe e melhor desempenho nas entregas das sprints.
 - Trabalho em Equipe: Buscando sempre melhorar tal soft skill  para compreender os demais atividades em grupo realizadas e a capacidade de somar mais ao grupo sempre que nescessario que nos é proposto.
-
+</details>
 
 #### :right_anger_bubble: Dificuldades: Neste terceiro projeto do API minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
 
-#### :right_anger_bubble: Conclusão:
+<details>
+<summary> #### :right_anger_bubble: Conclusão: </summary>
 - Aprendi sobre sistemas de gerenciamento e votação de atividades (Planning poker) funcional;
 - Desenvolvimento de um ambiente adequado a realização da retrospectiva do sistema;
 - Implementação de sistema de forma a garantir a experiência do usuário de forma interativa;
+</details>
 
 - :link: [Video_Projeto](https://gitlab.com/vitorlimadomingues/3periodo_devstore/-/raw/main/Apresenta%C3%A7%C3%A3o/Video_Produto_Sprint_4.mkv)                            
 
@@ -200,7 +209,8 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - gitlab;
 - git;
 
-# Contribuições Pessoais por sprint:
+<details>
+<summary> # Contribuições Pessoais por sprint: </summary>
 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
 - Criação e  montagem do banco de dados e inicio de sua aplicação em PGadm;
 
@@ -209,6 +219,7 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 
 3° Sprint - Configuração do oracle cloud:
 - Trabalho na criação e configuração para realizar a integração do oracle cloud no projeto;
+</details>
 
 #### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
 
@@ -220,19 +231,23 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - Oracle cloud: introdução do uso da  ferramenta para a inserção do banco de dados e programação da envio de confirmação de email para o usuário.  
 
 
-####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas
+<details>
+<summary> ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
  -  Comunicação eficaz: Muito desenvolvida para todos melhor compreenderem tudo que estou realizando ao decorrer do projeto a nós propostos.
  -  Organização: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização para todos.
  -  detalhamento:
+  </details>
+  
+#### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
  
- #### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do oracle cloud, pois e uma ferramenta bem completa de se utilizar e de uma configuração muito especifica e com isso foi necessario uma pesquisa a fundo de como realizar as alterações da plataforma e tudo que ela pode proporcionar para uso no projeto.
  
-#### :right_anger_bubble: Conclusão:
+<details>
+<summary> #### :right_anger_bubble: Conclusão: </summary>
 - Aprendi segmentação para descobrir novas demandas de produtos por regiões;
 - Como atingir uma deterinada demanda de clientes por local e por preferencia  de determinados produtos de cada local;
 - Auxilio em uma determinada tomada de decisões dos gerentes e diretores com relação a campanhas e compras de determinados produtos;
 - Melhoria de visibilidade da base de clientes a partir da leitura de arquivos CSV;
-
+</details>
 
 - :link: [Projeto_video](https://gitlab.com/vueforce1/lefoot)
 
