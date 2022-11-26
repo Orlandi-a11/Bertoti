@@ -254,13 +254,15 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# :heavy_check_mark: Meus Principais Conhecimentos
+<details>
+<summary> # :heavy_check_mark: Meus Principais Conhecimentos:  </summary>
 - Mysql;
 - Github;
 - Gitlab;
 - Postgree;
 - Figma;
 - Phyton;
+</details>
 
 ## Contatos
 * [GIT](https://github.com/Orlandi-a11)
