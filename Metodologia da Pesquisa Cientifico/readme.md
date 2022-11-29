@@ -27,10 +27,10 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 - Firebase;
 - Metodologia Scrum;
 
-<details>
-<summary> # Contribuições Pessoais: </summary>
+ # Contribuições Pessoais: 
 
-1 sprint - Protipação da aplicação:
+<details>
+<summary> 1 sprint - Protipação da aplicação: </summary>
 - Auxilio na prototipagem de algumas telas da nosso aplicativo (vai deVan), utilizei o editor grafico Figma.
 
 2° Sprint - Criação das Telas no App Inventor:
@@ -96,9 +96,9 @@ E para completar uma solução para o problema de não ter uma base de dados com
 - GRADEL;
 - POSTGIS; 
 
+ # Contribuições Pessoais: 
 <details>
-<summary> # Contribuições Pessoais: </summary>
-1° sprint - Monatgem do modelo Logico e conceitual do banco de dados:
+<summary> 1° sprint - Monatgem do modelo Logico e conceitual do banco de dados: </summary>
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint - Upload dos arquivos shapefile:
@@ -156,10 +156,10 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 - VSCODE;
 
 
-<details>
-<summary> # Contribuições Pessoais : </summary>
+ # Contribuições Pessoais : 
 
- 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
+ <details>
+<summary> 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:  </summary>
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint & 3° Sprint -inicio da montagem do readme e inserção do inicio do projeto no gitlab: 
@@ -209,9 +209,10 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - gitlab;
 - git;
 
+# Contribuições Pessoais :
+
 <details>
-<summary> # Contribuições Pessoais :</summary>
-1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma:
+<summary> 1 sprint - Monatgem do modelo Logico e conceitual do banco de dados e prototipagem de telas em figma: </summary>
 - Criação e  montagem do banco de dados e inicio de sua aplicação em PGadm;
 
 2° Sprint - Alterações no banco de dados e alteração da plataforma:
