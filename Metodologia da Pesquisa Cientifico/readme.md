@@ -4,7 +4,7 @@ orlando Pereira de Seixas Neto
 - RA: 1460282023038.
 - Professor: Giuliano Bertoti;
 - Disciplina: Projeto Trabalho de Graduação em Banco de Dados;
-- Orientador: Carlos Garcia
+- Orientador: CARLOS AUGUSTO LOMBARDI GARCIA
 
 # :abacus: Portifólio de API 
 <details>
