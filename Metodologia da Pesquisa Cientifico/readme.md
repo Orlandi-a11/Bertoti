@@ -157,7 +157,7 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 
 
 <details>
-<summary> # Contribuições Pessoais por sprint: </summary>
+<summary> # Contribuições Pessoais : </summary>
 
  1 sprint - Monatgem do modelo Logico e conceitual do banco de dados:
 - Auxilio na montagem do banco de dados e inicio de sua aplicação em PGadm;
