@@ -31,6 +31,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 <details>
 <summary> 1 sprint - Protipação da aplicação: </summary>
+ 
 - Auxilio na prototipagem de algumas telas da nosso aplicativo (vai deVan), utilizei o editor grafico Figma.
 
 2° Sprint - Criação das Telas no App Inventor:
@@ -61,7 +62,7 @@ Trabalhei em conjunto com o grupo Coffend no projeto da API VAIdeVAN com o Parce
 
 
 <details>
-<summary> #### :right_anger_bubble: Conclusão: </summary>
+<summary> #### :right_anger_bubble: Aprendizados Efetivos:  </summary>
 
 - Nesse api desenvolvi meu raciocinio logico.
 
@@ -126,7 +127,7 @@ E para completar uma solução para o problema de não ter uma base de dados com
 </details>
 
 <details>
-<summary> #### :right_anger_bubble: Conclusão: </summary>
+<summary> #### :right_anger_bubble: Aprendizados Efetivos : </summary>
 
 - Aprendi a respeito de analise de areas de imoveis de forma vetorial;
 - Analise e realização de download dos arquivos shapefile de forma organizada, em formato do mapa;
@@ -184,7 +185,8 @@ Possui capacitação tecnológica para o desenvolvimento de produtos e sistemas 
 #### :right_anger_bubble: Dificuldades: Neste terceiro projeto do API minha maior dificuldade foi realização dos commits no gitlab, pois devido a entrega serem muito rapido e serem todas bem complexas, houve uma certa dificuldade para a montagem de toda a estrutura do readme e comits de cada sprint.
 
 <details>
-<summary> #### :right_anger_bubble: Conclusão: </summary>
+<summary> #### :right_anger_bubble: Aprendizados Efetivos : </summary>
+ 
 - Aprendi sobre sistemas de gerenciamento e votação de atividades (Planning poker) funcional;
 - Desenvolvimento de um ambiente adequado a realização da retrospectiva do sistema;
 - Implementação de sistema de forma a garantir a experiência do usuário de forma interativa;
@@ -242,7 +244,8 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
  
  
 <details>
-<summary> #### :right_anger_bubble: Conclusão: </summary>
+<summary> #### :right_anger_bubble:  Aprendizados Efetivos : </summary>
+ 
 - Aprendi segmentação para descobrir novas demandas de produtos por regiões;
  
 - Como atingir uma deterinada demanda de clientes por local e por preferencia  de determinados produtos de cada local;
@@ -255,9 +258,66 @@ Nesta Sprint estamos trabalhando com a Empresa ![oracle](https://github.com/gabs
 - :link: [Projeto_video](https://gitlab.com/vueforce1/lefoot)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### :open_file_folder: Em 2023-1
+Neste semestre realizamos um projeto em conjunto com a empresa ![MIDALL](https://github.com/gabsana/Bertoti/blob/main/imagens/oracle.jpeg)<br> em que nos foi proposto realizar um projeto que realizasse a migração de diversos dados simultaneamente de uma nuvem para outra e após isso ocorresse a limpeza 
 
+- :link: [GIT](https://github.com/TechNinjass/midall-parent).
+
+#### Tecnologias Utilizadas
+- Vue.JS;
+- Oracle;
+- html;
+- css;
+- Python;
+- Javacrispt;
+- github;
+- FIGMA;
+
+# Contribuições Pessoais :
 
 <details>
+<summary> 1º sprint - Montagem dos modelos das telas e realização da tela home: </summary>
+- Tarefa de montagem das telas realizada no figma e inicio do projeto com a tela home no vue.js;
+
+2° Sprint - Criação da tela de configuração do google drive para a azure:
+- Realizada a criação das telas visual para conectar a nuvem do driver para realização da transferencia da azure;
+
+3° Sprint - Ajuste na tela de configuração e inserção do modal :
+- Ajuste da tela de configuração do projeto e inserção do modal na tela de configuração da azure e drive;
+
+4° Sprint - Ajuste da tela de parametro de tempo:
+- E como sprint final realizei os ajustes de tempo e minuto para a transferencia de dados do projeto;
+
+</details>
+
+#### :chart_with_downwards_trend: Hard Skills Efetivamente Desenvolvidas
+
+- Vue.js: aprendi a como realização e configuração do framework para front-end;
+- HTML : Aprimoramento da montagem na parte no front-end;
+- CSS: melhora no modelo e realização de programção de telas no css;
+- FIGMA : realização das prototipagem das telas;
+ 
+
+<details>
+<summary> ####  :hammer_and_wrench: Soft Skills Efetivamente Desenvolvidas: </summary>
+ -  Proatividade: Muito desenvolvida para todos as tasks desenvolvidas do projeto;
+ -  comunicação: Que foi a principal desenvolvida ao decorrer do projeto para que ao realizar a entrega de produto final, ter uma melhor vizualização e compreensão para todos;
+  </details>
+  
+#### :right_anger_bubble: Dificuldades: A minha maior dificuldade neste API foi realizar a configuração do sistema de centralização e montagem das modal, pois e foi a primeira vez trabalhando na parte de front end de um projeto a altura;
+ 
+<details>
+<summary> #### :right_anger_bubble:  Aprendizados Efetivos : </summary>
+ 
+- Aprendi como e realizado a conexão de dados de uma nuvem para a outra;
+ 
+- Como ralizar uma tela home de forma eficaz e simples ao um projeto;
+
+- Montagem de deseign e telas na ferramenta VUE.JS;
+ 
+- Montagem de parametros de tempo para inserção de dados de uma nuvem para outra;
+
+</details>
 <summary> # :heavy_check_mark: Meus Principais Conhecimentos:</summary>
 -  Mysql;
 -  Github;
