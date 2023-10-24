@@ -2,7 +2,7 @@
 
 ![logo_projeto](https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/VaideVan_logo.png)
 
-## :briefcase:  Empresa
+# :briefcase:  Empresa - Fatec 
 Neste semestre não houve empresa parceira e sim a própria fatec proposto pelo professor Fabiano Sabhah.
 
 #### :clipboard: Proposta
